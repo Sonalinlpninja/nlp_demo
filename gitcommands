@@ -1,0 +1,24 @@
+Git commands-
+1.	Copy the link from the github repo
+2.	And go to folder where you want to use git
+3.	Git clone https://github.com/Sonalinlpninja/nlp_ninja.git
+4.	How to pull code - https://docs.github.com/en/free-pro-team@latest/github/using-git/getting-changes-from-a-remote-repository
+Git pull repo name
+5.	Git push
+Git status
+Git branch
+Video link - https://www.youtube.com/watch?v=6VUpZ9Dxmhk
+Git commit –all
+Git push
+
+E:\nlp_tutorial\New folder\nlp_ninja>git log --oneline
+7bb0c3b (HEAD -> main, origin/main, origin/HEAD) i so we are adding the first file      :wq
+de515b9 Create ch1
+d446900 Update README.md
+e6ef6ff Initial commit
+
+E:\nlp_tutorial\New folder\nlp_ninja>git add --all
+
+E:\nlp_tutorial\New folder\nlp_ninja>git commit -m "second commit"
+[main 7cfb083] second commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
